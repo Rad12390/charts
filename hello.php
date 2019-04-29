@@ -17,6 +17,7 @@ $dataPoints = array(
 window.onload = function() {
  
  
+ 
 var chart = new CanvasJS.Chart("chartContainer", {
 	animationEnabled: true,
 	title: {
